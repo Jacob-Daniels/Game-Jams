@@ -1,14 +1,14 @@
 <div>
   <h2>Cozy Fall Jam:</h2>
-  <p>- Project Name: <a href="https://mynameslex.itch.io/imposter">Imposter</a>
+  <p>- Project Name: Imposter
   <br>- Team: 2 Members
   <br>- Date: September 2022
   <br>- Theme: 'Fall' & 'Trading Places'
-  <br>- Download: <a href="https://github.com/Jacob-Daniels/Game-Jams/tree/main/Downloads/Cozy-Fall-Jam-2022">Repository</a>
+  <br>- Download: <a href="https://mynameslex.itch.io/imposter">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/Game-Jams/tree/main/Downloads/Cozy-Fall-Jam-2022">Repository</a>
   </p>
 
   <h2>Airship Jam:</h2>
-  <p>- Project Name: <a href="https://twitter.com/DanielsSaul/status/1537891895824658433">Grow Your Defence</a>
+  <p>- Project Name: Grow Your Defence
   <br>- Team: Solo
   <br>- Date: June 2022
   <br>- Theme: 'Growth'
@@ -16,19 +16,18 @@
   </p>
   
   <h2>Bullet Hell Jam:</h2>
-  <p>- Project Name: <a href="https://mynameslex.itch.io/boost">Boost!</a>
+  <p>- Project Name: Boost!
   <br>- Team: 3 Members
   <br>- Date: April 2022
   <br>- Theme: 'Confined'
-  <br>- Download: <a href="https://github.com/Jacob-Daniels/Game-Jams/tree/main/Downloads/Bullet-Hell-Jam-2022">Repository</a>
+  <br>- Download: <a href="https://mynameslex.itch.io/boost">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/Game-Jams/tree/main/Downloads/Bullet-Hell-Jam-2022">Repository</a>
   </p>
   
   <h2>Black & White Jam:</h2>
-  <p>- Project Name: <a href="https://yayacob.itch.io/sleeping-on-the-job">SLEEPING ON THE JOB</a> 
+  <p>- Project Name: SLEEPING ON THE JOB
   <br>- Team: 3 Members
   <br>- Date: April 2022
   <br>- Theme: 'Loops' & 'Two Colours'
-  <br>- Restriction: 'Two colours'
-  <br>- Download: <a href="https://github.com/Jacob-Daniels/Game-Jams/tree/main/Downloads/Black-%26-White-Jam-2022">Repository</a>
+  <br>- Download: <a href="https://yayacob.itch.io/sleeping-on-the-job">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/Game-Jams/tree/main/Downloads/Black-%26-White-Jam-2022">Repository</a>
   </p>
 </div>
