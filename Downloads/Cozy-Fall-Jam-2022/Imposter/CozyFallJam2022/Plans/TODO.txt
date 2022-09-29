@@ -1,0 +1,7 @@
+Level Design - Both // Made the end goal to load in next level when collided with, can obvs change mesh and stuff (EDIT LEVEL NAME IN EDITOR, CHECK IMG IN PLAN) - Lex // FOCUS ON THIS FIRST - Lex
+
+Fog - Jacob // Done some starter work on this by increasing 'Fog Height Falloff' on 'ExporExponentialHeightFog' to move fog up but it just looks like dirty water? - Lex // SET IT TO NOT RENDER BY DISABLING IT'S VISIBILITY IN RENDERING FOR TIME BEING. IF DONE EVERYTHING ELSE DO THE FOG - Lex
+
+Clicking inventory slots selects item in hand - Jacob // Made a bool to check if player is in inventory - Lex // FOCUS ON THIS THIRD - Lex
+
+Increase torch collision box - FOCUS ON SECOND - Jacob/Lex
