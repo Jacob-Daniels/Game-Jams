@@ -1,0 +1,2 @@
+*.ucas filter=lfs diff=lfs merge=lfs -text
+CozyFallJam2022-Windows.ucas filter=lfs diff=lfs merge=lfs -text
