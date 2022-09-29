@@ -1,3 +1,0 @@
-*.ucas filter=lfs diff=lfs merge=lfs -text
-D:/GitHub/Game-Jams/Downloads/Cozy-Fall-Jam-2022 filter=lfs diff=lfs merge=lfs -text
-D:/GitHub/Game-Jams/Downloads/Cozy-Fall-Jam-2022/Imposter-Build filter=lfs diff=lfs merge=lfs -text
