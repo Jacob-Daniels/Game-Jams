@@ -20,7 +20,7 @@
   <br>- Team: 3 Members
   <br>- Date: April 2022
   <br>- Theme: 'Confined'
-  <br>- Download: <a href="https://mynameslex.itch.io/boost">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/Game-Jams/tree/main/Downloads/Bullet-Hell-Jam-2022">Repository</a>
+  <br>- Download: <a href="https://mynameslex.itch.io/boost">Itch.io</a>
   </p>
   
   <h2>Black & White Jam:</h2>
@@ -28,6 +28,6 @@
   <br>- Team: 3 Members
   <br>- Date: April 2022
   <br>- Theme: 'Loops' & 'Two Colours'
-  <br>- Download: <a href="https://yayacob.itch.io/sleeping-on-the-job">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/Game-Jams/tree/main/Downloads/Black-%26-White-Jam-2022">Repository</a>
+  <br>- Download: <a href="https://yayacob.itch.io/sleeping-on-the-job">Itch.io</a>
   </p>
 </div>
