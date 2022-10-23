@@ -8,7 +8,8 @@
     <li>Team: Solo
     <li>Theme: Growth
     <li>Duration: 1 month
-    <li>Tools: Unity, C#
+    <li>Language: C#
+    <li>Engine: Unity (Version: 2020.3.31f1)
   </ul>
 </div>
 
